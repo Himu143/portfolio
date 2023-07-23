@@ -1142,3 +1142,13 @@ body.mobile-nav-active #mobile-nav-toggle {
 .footer .copyright p:last-child {
     margin: 0;
 }
+
+
+.form_message{
+    display: none;
+    margin-top: 10px;
+    background-color: #AF9483;
+    padding: 5px 10px;
+    border-radius: 5px;
+    color: whitesmoke;
+}
